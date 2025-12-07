@@ -1,9 +1,9 @@
 # Harshwardhan Patil
 
-- Email    -: harshwardhanpatil176@gmail.com  
-- Location -: Hyderabad, India
-- LinkedIn -: (https://www.linkedin.com/in/harshwardhanpatil-springboot/)
-- Leetcode -: (https://leetcode.com/u/harshwardhanpatil176/)
+- **Email**    -: harshwardhanpatil176@gmail.com  
+- **Location** -: Hyderabad, India
+- **LinkedIn** -: https://www.linkedin.com/in/harshwardhanpatil-springboot/
+- **Leetcode** -: https://leetcode.com/u/harshwardhanpatil176/
 
 ---
 
