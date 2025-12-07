@@ -1,7 +1,7 @@
 # Harshwardhan Patil
 
 - Email: harshwardhanpatil176@gmail.com  
-- Location: Hyderabady, India
+- Location: Hyderabad, India
 - LinkedIn: (https://www.linkedin.com/in/harshwardhanpatil-springboot/)
 
 ---
@@ -55,13 +55,6 @@ AUG 2017- MAY 2021
 
 ---
 
-## Projects & Initiatives
-
-- Developed [Project Name / Tool] using Spring Boot and Docker for enterprise deployment.
-- Implemented [Feature / Automation] to improve deployment efficiency and application stability.
-- Contributed to [Open Source / Personal Projects] on GitHub.
-
----
 
 ## Achievements
 
