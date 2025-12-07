@@ -2,7 +2,7 @@
 
 Email: harshwardhanpatil176@gmail.com  
 Location: Hyderabady, India
-LinkedIn: (https://www.linkedin.com/in/harshwardhanpatil-springboot/)   |   [GitHub](https://github.com/Jagrit29)
+LinkedIn: (https://www.linkedin.com/in/harshwardhanpatil-springboot/)
 
 ---
 
