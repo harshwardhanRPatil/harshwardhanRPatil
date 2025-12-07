@@ -1,8 +1,8 @@
 # Harshwardhan Patil
 
-Email: harshwardhanpatil176@gmail.com  
-Location: Hyderabady, India
-LinkedIn: (https://www.linkedin.com/in/harshwardhanpatil-springboot/)
+- Email: harshwardhanpatil176@gmail.com  
+- Location: Hyderabady, India
+- LinkedIn: (https://www.linkedin.com/in/harshwardhanpatil-springboot/)
 
 ---
 
